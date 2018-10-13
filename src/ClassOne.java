@@ -1,6 +1,8 @@
 
 public class ClassOne {
-	
+       /** This is a greet method
+	*
+	****/ 	
 	public String greet(String name){
 		return "Hello " + name;
 	}
